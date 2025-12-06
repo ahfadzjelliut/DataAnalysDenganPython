@@ -12,7 +12,7 @@ file.close()
 print(first_lines)
 print(second_lines)
 
-url = "https://storage.googleapis.com/dqlab-dataset/hello.txt"
+url = "..."
 response = requests.get(url)
 # Cetak kode status dari response
 print(response)
